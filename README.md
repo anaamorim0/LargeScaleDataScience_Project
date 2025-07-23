@@ -1,2 +1,6 @@
 # LargeScaleDataScience_Project
-Large Scale Data Science course project for 2024/2025, part of the 3rd year, 2nd semester of the Computer Science Bachelor degree 
+
+- The jupyter notebooks (Performance Analysis.ipynb, Pipeline.ipynb) contain the documented code for this project.
+- The Performance Analysis Project Report contains the conclusions of the project.
+
+- The datasets were not included because they're too large
